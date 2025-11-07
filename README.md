@@ -63,6 +63,13 @@ index=dns_lab sourcetype="json"
 index=dns_lab sourcetype="json"
 | stats count by qtype
 ```
+
+## 🖼️ Dashboard Screenshot
+
+Below is the Splunk DNS Monitoring Dashboard created for this project:
+
+![DNS Monitoring Dashboard](DNS-Log-Analysis.png)
+
 🔚 Conclusion
 By completing this project, you have:
 
