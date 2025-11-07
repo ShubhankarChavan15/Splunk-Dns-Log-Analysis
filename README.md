@@ -70,7 +70,7 @@ Below is the Splunk DNS Monitoring Dashboard created for this project:
 
 ![DNS Monitoring Dashboard](DNS-Log-Analysis.png)
 
-🔚 Conclusion
+### 🔚 Conclusion
 By completing this project, you have:
 
 * Learned how to ingest and parse DNS logs into Splunk for analysis.
